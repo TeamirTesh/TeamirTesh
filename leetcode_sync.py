@@ -21,16 +21,10 @@ query = f'''
         count
       }}
     }}
-    recentSubmissionList(limit: 5) {{
-      title
-      titleSlug
-      timestamp
-      lang
-      statusDisplay
-    }}
   }}
 }}
 '''
+
 
 # --- Headers to make LeetCode treat this as a browser request ---
 headers = {
