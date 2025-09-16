@@ -55,3 +55,30 @@ if data["recentSubmissionList"]:
 # --- Keep daily log for commit activity ---
 with open("daily_log.txt", "a") as f:
     f.write(f"{datetime.date.today()} - Synced LeetCode progress, latest: {submission['title']}\n")
+
+
+# Update Leetcode Stats in ReadMe
+with open("progress.json") as f:
+    stats = json.load(f)
+
+# total problems solved
+total_solved = sum([item['count'] for item in stats['acSubmissionNum']])
+
+# recent solutions
+solution_files = os.listdir("solutions")
+solution_files.sort(reverse=True)
+recent_files = solution_files[:5]  # show last 5
+recent_links = "\n".join([f"- [{file}](solutions/{file})" for file in recent_files])
+
+# read current README
+with open("README.md", "r") as f:
+    readme = f.read()
+
+# replace placeholders
+readme = readme.replace("SOLVED_COUNT", str(total_solved))
+readme = readme.replace("RECENT_SOLUTIONS", recent_links)
+
+# write updated README
+with open("README.md", "w") as f:
+    f.write(readme)
+
