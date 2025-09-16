@@ -4,7 +4,7 @@ import datetime
 import os
 
 # --- CONFIG ---
-USERNAME = "TeamirTesh"  # <-- Replace with your exact LeetCode username
+USERNAME = "TeamirT"
 SOLUTIONS_DIR = "solutions"
 README_FILE = "README.md"
 
@@ -32,17 +32,27 @@ query = f'''
 }}
 '''
 
+# --- Headers to make LeetCode treat this as a browser request ---
+headers = {
+    "User-Agent": "Mozilla/5.0",
+    "Content-Type": "application/json",
+}
+
 # --- Fetch LeetCode data safely ---
 data = None
 try:
-    res = requests.post("https://leetcode.com/graphql", json={"query": query})
+    res = requests.post("https://leetcode.com/graphql", headers=headers, json={"query": query})
     res.raise_for_status()
-    response_json = res.json()
     
-    if "data" in response_json and response_json["data"]["matchedUser"]:
-        data = response_json["data"]["matchedUser"]
+    try:
+        response_json = res.json()
+    except json.JSONDecodeError:
+        print("LeetCode returned non-JSON response:")
+        print(res.text)
     else:
-        print("LeetCode API returned no data:", response_json)
+        data = response_json.get("data", {}).get("matchedUser")
+        if not data:
+            print("No matchedUser found in API response:", response_json)
 except Exception as e:
     print("Error fetching LeetCode data:", e)
 
