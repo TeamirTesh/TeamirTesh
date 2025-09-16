@@ -15,6 +15,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TeamirTesh&theme=dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamirTesh&theme=dark" />
 
+## 💻 LeetCode Stats
+**Problems Solved:** SOLVED_COUNT
+
+## 📝 Recent LeetCode Solutions
+RECENT_SOLUTIONS
+
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/teamir-teshome-084219337/)
 
