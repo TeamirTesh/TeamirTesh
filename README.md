@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Teamir Teshome 👋
 
-<!--
-**TeamirTesh/TeamirTesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 I'm currently studying **Computer Science** at Georgia State University.
+- 💡 Deeply interested in Software Engineering, AI/ML/Deep Learning, Data Science, Robotics, & more.
+- 🌍 Lived in Ethiopia for 6 years, now reside in Atlanta, GA US.
+- ⚡ Fun fact: I can **ALMOST** bench 2 plates..
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, C, LEARNING: Java, SQL
+- **Tools:** Git, VS Code, Linux
+- **Interests:** Backend/Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TeamirTesh&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamirTesh&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeamirTesh&repo=REPO_NAME&theme=dark" />
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/teamir-teshome-084219337/)
+
+
+---
+⭐️ From TeamirTesh ((https://github.com/TeamirTesh))
