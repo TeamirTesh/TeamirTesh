@@ -14,7 +14,6 @@
 ## 📊 GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TeamirTesh&theme=dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamirTesh&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeamirTesh&repo=REPO_NAME&theme=dark" />
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/teamir-teshome-084219337/)
