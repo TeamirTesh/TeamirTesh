@@ -1,0 +1,20 @@
+{
+  "acSubmissionNum": [
+    {
+      "difficulty": "All",
+      "count": 4
+    },
+    {
+      "difficulty": "Easy",
+      "count": 3
+    },
+    {
+      "difficulty": "Medium",
+      "count": 1
+    },
+    {
+      "difficulty": "Hard",
+      "count": 0
+    }
+  ]
+}
