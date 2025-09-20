@@ -3,3 +3,4 @@
 2025-09-17 - Synced LeetCode progress
 2025-09-18 - Synced LeetCode progress
 2025-09-19 - Synced LeetCode progress
+2025-09-20 - Synced LeetCode progress
