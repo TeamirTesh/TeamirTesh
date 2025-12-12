@@ -1,29 +1,68 @@
-# Hi there, I'm Teamir Teshome 👋
+# 👋🏽 Hey, I'm Teamir Teshome
+**CS @ Georgia State University '26 | SWE Intern @ Cargill (Summer 2026) | AI + Systems Engineer | Full-Stack & ML Builder**
 
-## 👨‍💻 About Me
-- 🎓 I'm currently studying **Computer Science** at Georgia State University.
-- 💡 Deeply interested in Software Engineering, AI/ML/Deep Learning, Data Science, Robotics, & more.
-- 🌍 Lived in Ethiopia for 6 years, now reside in Atlanta, GA US.
-- ⚡ Fun fact: I can **ALMOST** bench 2 plates..
+## 🚀 Featured Projects
 
-## 🛠️ Tech Stack
-- **Languages:** Python, C, LEARNING: Java, SQL
-- **Tools:** Git, VS Code, Linux
-- **Interests:** Backend/Full-Stack Development
+### 🔹 XP-Lab — AI-Powered Lecture Intelligence Platform  
+> *Helping professors teach better & students understand faster.*  
+- First Place Winner at EmoryHacks
+- Real-time transcription, topic extraction, and engagement analytics  
+- Flask backend, React dashboard, WebSockets, Whisper, OpenAI models  
+- Gamified student dashboard + data visualizations  
 
-## 📊 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TeamirTesh&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamirTesh&theme=dark" />
+### 🔹 HearSpace — Vision-to-Audio Assistive Navigation Device  
+> *ESP32-CAM + spatial audio for navigating environments.*  
+- YOLOv8 object detection + MiDaS depth estimation  
+- Processes frames on server → returns directional audio cues  
+- Designed wearable hardware + custom routing system  
 
-## 💻 LeetCode Stats
-**Problems Solved:** 8
+### 🔹 JobHunter.AI — Automated Job Application Tracker  
+- Gmail/Outlook API integration  
+- Scrapes job application receipts + parses status  
+- Stores metadata in Supabase  
+- Flask API + React frontend portal
 
-## 📝 Recent LeetCode Solutions
 
-
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/teamir-teshome-084219337/)
-
+More at: **https://github.com/teamirteshome** (active repositories pinned).
 
 ---
-⭐️ From TeamirTesh ((https://github.com/TeamirTesh))
+
+## 🧠 Technical Skills
+
+### **Languages**
+- Python 🐍 (primary), C (systems), Java, SQL, JavaScript, HTML & CSS
+
+### **AI / ML**
+- Scikit-learn, SVM, KNN, PCA, ANN/CNN/RNN basics  
+- Whisper / LLM API pipelines  
+- OCR pipelines (PyMuPDF, Tesseract, PaddleOCR)
+
+### **Full-Stack**
+- Flask, FastAPI  
+- React, Next.js, Tailwind  
+- Supabase, Firebase  
+- REST APIs + auth
+
+### **Embedded & Systems**
+- ESP32-CAM (OV2640), RPi  
+- Networking, routing, streaming endpoints  
+- RISC-V basics, memory & pipeline concepts  
+- Linux tools, bash workflows
+
+---
+
+## 📚 What I'm Working Toward
+- Becoming a **Software Engineer + Applied AI Engineer**  
+- Building a **strong portfolio** with real hardware + AI systems  
+- Publishing ML research at GSU’s MORSE Studio  
+- Prepping for **Microsoft / FAANG SWE new-grad** after Cargill TDP
+
+---
+
+## 📫 Let's Connect  
+- **LinkedIn:** https://www.linkedin.com/in/teamirteshome  
+- **Portfolio:** Coming soon — built with Next.js, Tailwind, and portal animations  
+- **Email:** teamir.teshome@example.com (replace with real)
+
+---
+
