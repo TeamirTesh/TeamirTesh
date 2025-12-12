@@ -62,7 +62,7 @@ More at: **https://github.com/teamirteshome** (active repositories pinned).
 ## 📫 Let's Connect  
 - **LinkedIn:** https://www.linkedin.com/in/teamirteshome  
 - **Portfolio:** Coming soon — built with Next.js, Tailwind, and portal animations  
-- **Email:** teamir.teshome@example.com (replace with real)
+- **Email:** teamir.teshome1@gmail.com
 
 ---
 
