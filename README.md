@@ -1,4 +1,4 @@
-# 👋🏽 Hey, I'm Teamir Teshome
+# Hey, I'm Teamir Teshome
 **CS @ Georgia State University '26 | SWE Intern @ Cargill (Summer 2026) | AI + Systems Engineer | Full-Stack & ML Builder**
 
 ## 🚀 Featured Projects
