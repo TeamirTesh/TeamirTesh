@@ -1,8 +1,7 @@
 # Teamir Teshome 👋
 
 CS @ Georgia State University  
-Incoming MSCS @ #(TBA)
-
+Incoming MSCS @ (TBA)
 Incoming Software Engineering Intern @ Cargill (Summer 2026)  
 
 I build scalable full-stack systems and AI-powered applications with a focus on backend architecture, and meaningful impact.
