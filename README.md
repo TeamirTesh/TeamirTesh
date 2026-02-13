@@ -10,8 +10,7 @@ I build scalable full-stack systems and AI-powered applications with a focus on 
 
 ## Featured Projects
 
-### XP Lab 
-### AI Lecture Assistant
+### XP Lab (AI Lecture Assistant)
 Full-stack AI platform for real-time lecture transcription, summarization, and student dashboards.  
 **Stack:** React, FastAPI, Supabase (Postgres), WebSockets, OpenAI (Whisper, GPT)  
 - Real-time speech-to-text + structured AI summaries  
@@ -20,8 +19,7 @@ Full-stack AI platform for real-time lecture transcription, summarization, and s
 
 ---
 
-### JobHunter.AI 
-### AI Job Application Tracker
+### JobHunter.AI (AI Job Application Tracker)
 Automated job tracking system with Gmail/Outlook integration and AI extraction.  
 **Stack:** React, Flask/FastAPI, PostgreSQL, OAuth, OpenAI  
 - Parses job emails automatically  
@@ -30,8 +28,7 @@ Automated job tracking system with Gmail/Outlook integration and AI extraction.
 
 ---
 
-### Blob.AI 
-### Document Intelligence (RAG Pipeline)
+### Blob.AI (Document Intelligence (RAG Pipeline))
 End-to-end retrieval augmented generation system for mortgage PDFs.  
 **Stack:** LlamaIndex, FAISS, BGE embeddings, Python  
 - Custom chunking & metadata pipeline  
