@@ -1,68 +1,81 @@
-# Teamir Teshome
-**CS @ Georgia State University '26 | SWE Intern @ Cargill (Summer 2026) | AI + Systems Engineer | Full-Stack & ML Builder**
+# Teamir Teshome 👋
 
-## 🚀 Featured Projects
+CS @ Georgia State University  
+Incoming MSCS @ #(TBA)
+Incoming Software Engineering Intern @ Cargill (Summer 2026)  
 
-### 🔹 XP-Lab — AI-Powered Lecture Intelligence Platform  
-> *Helping professors teach better & students understand faster.*  
-- First Place Winner at EmoryHacks
-- Real-time transcription, topic extraction, and engagement analytics  
-- Flask backend, React dashboard, WebSockets, Whisper, OpenAI models  
-- Gamified student dashboard + data visualizations  
-
-### 🔹 HearSpace — Vision-to-Audio Assistive Navigation Device  
-> *ESP32-CAM + spatial audio for navigating environments.*  
-- YOLOv8 object detection + MiDaS depth estimation  
-- Processes frames on server → returns directional audio cues  
-- Designed wearable hardware + custom routing system  
-
-### 🔹 JobHunter.AI — Automated Job Application Tracker  
-- Gmail/Outlook API integration  
-- Scrapes job application receipts + parses status  
-- Stores metadata in Supabase  
-- Flask API + React frontend portal
-
-
-More at: **https://github.com/teamirteshome** (active repositories pinned).
+I build scalable full-stack systems and AI-powered applications with a focus on backend architecture, and meaningful impact.
 
 ---
 
-## 🧠 Technical Skills
+## Featured Projects
 
-### **Languages**
-- Python 🐍 (primary), C (systems), Java, SQL, JavaScript, HTML & CSS
-
-### **AI / ML**
-- Scikit-learn, SVM, KNN, PCA, ANN/CNN/RNN basics  
-- Whisper / LLM API pipelines  
-- OCR pipelines (PyMuPDF, Tesseract, PaddleOCR)
-
-### **Full-Stack**
-- Flask, FastAPI  
-- React, Next.js, Tailwind  
-- Supabase, Firebase  
-- REST APIs + auth
-
-### **Embedded & Systems**
-- ESP32-CAM (OV2640), RPi  
-- Networking, routing, streaming endpoints  
-- RISC-V basics, memory & pipeline concepts  
-- Linux tools, bash workflows
+### 🧠 XP Lab — AI Lecture Assistant
+Full-stack AI platform for real-time lecture transcription, summarization, and student dashboards.  
+**Stack:** React, FastAPI, Supabase (Postgres), WebSockets, OpenAI (Whisper, GPT)  
+- Real-time speech-to-text + structured AI summaries  
+- Professor & student dashboards  
+- Scalable backend architecture with async APIs  
 
 ---
 
-## 📚 What I'm Working Toward
-- Becoming a **Software Engineer + Applied AI Engineer**  
-- Building a **strong portfolio** with real hardware + AI systems  
-- Publishing ML research at GSU’s MORSE Studio  
-- Prepping for **Microsoft / FAANG SWE new-grad** after Cargill TDP
+### 📬 JobHunter.AI — AI Job Application Tracker
+Automated job tracking system with Gmail/Outlook integration and AI extraction.  
+**Stack:** React, Flask/FastAPI, PostgreSQL, OAuth, OpenAI  
+- Parses job emails automatically  
+- Structured application tracking  
+- Secure OAuth integrations  
 
 ---
 
-## 📫 Let's Connect  
-- **LinkedIn:** https://www.linkedin.com/in/teamirteshome  
-- **Portfolio:** Coming soon — built with Next.js, Tailwind, and portal animations  
-- **Email:** teamir.teshome1@gmail.com
+### 📄 Blob.AI — Document Intelligence (RAG Pipeline)
+End-to-end retrieval augmented generation system for mortgage PDFs.  
+**Stack:** LlamaIndex, FAISS, BGE embeddings, Python  
+- Custom chunking & metadata pipeline  
+- Embedding model comparison & retrieval tuning  
+- Local LLM integration  
 
 ---
 
+## 🛠 Tech Stack
+
+**Languages**  
+Python • Java • C • TypeScript • SQL  
+
+**Backend**  
+FastAPI • Flask • Node • REST APIs • WebSockets  
+
+**Frontend**  
+React • Next.js • Tailwind • Flutter  
+
+**AI / ML**  
+LlamaIndex • FAISS • HuggingFace • OpenAI • scikit-learn  
+
+**Databases**  
+PostgreSQL • Supabase • MySQL  
+
+---
+
+## 📈 LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_TeamirT?theme=dark&font=baloo&ext=heatmap)
+
+Currently working through NeetCode 150  
+Language: Python  
+Actively preparing for 2026 recruiting cycle  
+
+---
+
+## 📚 Currently Learning
+
+- System Design fundamentals  
+- Graph algorithms & advanced data structures  
+- Distributed systems concepts  
+- Performance optimization  
+
+---
+
+## 📫 Connect
+
+Portfolio: https://teamirteshome.com  
+LinkedIn: https://www.linkedin.com/in/teamir-teshome-084219337/
