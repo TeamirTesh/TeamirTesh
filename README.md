@@ -1,4 +1,4 @@
-# Teamir Teshome 👋
+# Teamir Teshome
 
 CS @ Georgia State University  
 Incoming MSCS @ (TBA)
@@ -71,10 +71,10 @@ Actively preparing for 2026 recruiting cycle
 
 ## Currently Learning
 
-- System Design fundamentals  
+- Cloud Solutions Fundamentals
+- System Design & Architecture
 - Graph algorithms & advanced data structures  
-- Distributed systems concepts  
-- Performance optimization  
+- Machine Learning & AI Fundamentals    
 
 ---
 
