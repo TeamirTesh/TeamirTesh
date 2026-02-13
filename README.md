@@ -2,6 +2,7 @@
 
 CS @ Georgia State University  
 Incoming MSCS @ #(TBA)
+
 Incoming Software Engineering Intern @ Cargill (Summer 2026)  
 
 I build scalable full-stack systems and AI-powered applications with a focus on backend architecture, and meaningful impact.
@@ -58,7 +59,7 @@ PostgreSQL • Supabase • MySQL
 
 ## 📈 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_TeamirT?theme=dark&font=baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/TeamirT?theme=dark&font=baloo&ext=heatmap)
 
 Currently working through NeetCode 150  
 Language: Python  
