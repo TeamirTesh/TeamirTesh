@@ -2,7 +2,7 @@
   "acSubmissionNum": [
     {
       "difficulty": "All",
-      "count": 11
+      "count": 12
     },
     {
       "difficulty": "Easy",
@@ -14,7 +14,7 @@
     },
     {
       "difficulty": "Hard",
-      "count": 0
+      "count": 1
     }
   ]
 }
