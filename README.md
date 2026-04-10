@@ -1,7 +1,8 @@
 # Teamir Teshome
 
-CS @ Georgia State University  
-Incoming MSCS @ (TBA)
+CS @ Georgia State University
+LLM Engineer Intern @ ATOM Advantage
+Incoming MSCS @ UGA
 Incoming Software Engineering Intern @ Cargill (Summer 2026)  
 
 I build scalable full-stack systems and AI-powered applications with a focus on backend architecture, and meaningful impact.
