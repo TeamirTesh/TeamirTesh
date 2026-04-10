@@ -1,6 +1,6 @@
 # Teamir Teshome
 
-CS @ Georgia State University
+CS @ Georgia State University    
 Incoming MSCS @ UGA
 
 - LLM Engineer Intern @ ATOM Advantage
