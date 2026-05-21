@@ -58,9 +58,9 @@ PostgreSQL • Supabase • MySQL
 
 ---
 
-## LeetCode
+## NeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/TeamirT?theme=dark&font=baloo&ext=heatmap)
+![NeetCode Stats](https://raw.githubusercontent.com/TeamirTesh/TeamirTesh/main/neetcode-card.svg)
 
 Currently working through NeetCode 150  
 Language: Python  
