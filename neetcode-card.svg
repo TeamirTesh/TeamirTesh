@@ -8,9 +8,9 @@
   <circle cx="68" cy="118" r="40" fill="none" stroke="#21262d" stroke-width="6"/>
   <circle cx="68" cy="118" r="40" fill="none" stroke="#58a6ff" stroke-width="6"
     stroke-linecap="round"
-    stroke-dasharray="71.32 251.33"
+    stroke-dasharray="73.02 251.33"
     transform="rotate(-90 68 118)"/>
-  <text x="68" y="114" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="28" font-weight="700" fill="#e6edf3">42</text>
+  <text x="68" y="114" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="28" font-weight="700" fill="#e6edf3">43</text>
   <text x="68" y="130" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="10" fill="#6e7681">/ 148 solved</text>
 
   <text x="148" y="72" font-family="Segoe UI,sans-serif" font-size="12" fill="#8b949e">Easy</text>
@@ -18,8 +18,8 @@
   <g transform="translate(148,78)"><rect width="200" height="8" rx="4" fill="#21262d"/><rect width="85.7" height="8" rx="4" fill="#3fb950"/></g>
 
   <text x="148" y="110" font-family="Segoe UI,sans-serif" font-size="12" fill="#8b949e">Medium</text>
-  <text x="355" y="110" text-anchor="end" font-family="Segoe UI,sans-serif" font-size="12" font-weight="600" fill="#e3b341">23/99</text>
-  <g transform="translate(148,116)"><rect width="200" height="8" rx="4" fill="#21262d"/><rect width="46.5" height="8" rx="4" fill="#e3b341"/></g>
+  <text x="355" y="110" text-anchor="end" font-family="Segoe UI,sans-serif" font-size="12" font-weight="600" fill="#e3b341">24/99</text>
+  <g transform="translate(148,116)"><rect width="200" height="8" rx="4" fill="#21262d"/><rect width="48.5" height="8" rx="4" fill="#e3b341"/></g>
 
   <text x="148" y="148" font-family="Segoe UI,sans-serif" font-size="12" fill="#8b949e">Hard</text>
   <text x="355" y="148" text-anchor="end" font-family="Segoe UI,sans-serif" font-size="12" font-weight="600" fill="#f85149">7/21</text>
